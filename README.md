@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-👩🏾‍💻 
-I'm a Mexican Software Engineer, working as an Application Management Engineer at @Wizeline
+👩🏾‍💻 I'm a Mexican Software Engineer, working as an Application Management Engineer at <B> Wizeline <B>
 
-- 🔭 I’m working to build up my 'Front-end Arquitect Career' with ReactJS on @Platzi
-- 🌱 I’m learning Cloud Computing with AWS 
-- 🤟🏿 ASk me about C#, Entity Framework or Azure DevOps I'll be more than glad to help you or we can investigate together :) 
-- 💭 We can talk about tech, feminism, philosophy or whichever you like 
+- 🔭 I’m a Fullstack to be ** *cries in spanish* **
+- 🌱 I’m learning Cloud Computing on Amazon Web services 
+- 🤟🏿 Ask me about Microsoft Technologies and Frameworks 
+- 💭 We can talk about tech, feminism, philosophy or whichever you like, Im an open person.
 - ⚡ Fun fact: 'Trolls' is my favorite movie.
-- 🟣 I'm part of a BIG latin tech community named #TechnoLatinas 
+- 🟣 I'm part of a BIG latin tech community named <b>TechnoLatinas<b> 
