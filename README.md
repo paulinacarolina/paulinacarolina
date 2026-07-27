@@ -1,17 +1,30 @@
-Hi there 👋  
-I'm Paulina, a former Backend Software Engineer based in Aguascalientes, Mexico 🇲🇽 Now I'm a Product Lead on tech
+# ¡Hola! Soy Paulina 👋🏽
 
-🔭 With 7+ years of experience in Tech I created "Pau en Tecnologia" this space to help other people thrive in this industry.. 
+Soy ingeniera de software, líder en tecnología y hiring manager, con más de 7 años de experiencia profesional en la industria tech. Vivo en Aguascalientes, México 🇲🇽
 
+Creé **Pau en Tecnología** para ayudar a estudiantes, profesionistas y personas en transición de carrera a encontrar su lugar en tecnología y tomar mejores decisiones profesionales.
 
-👩🏾‍💻 Currently focusing on strengthening my expertise Management, AI platforms 
+## Aquí encontrarás 🔭
 
-💸 Passionate about fintechs, biomedics, traveling , sales and more and niche techs 
+👩🏽‍💻 Orientación sobre carreras y roles en tecnología  
+🧭 Estrategias para construir una trayectoria profesional con intención  
+📄 Consejos sobre CV, LinkedIn, entrevistas y búsqueda de empleo  
+🔍 Vacantes, recursos y oportunidades de crecimiento  
+📚 Guías y ebooks para desarrollar tu carrera profesional  
+🌱 Hábitos, disciplina y vida real detrás del crecimiento  
 
-🤝 Tengo un servicio de ebooks y muchos videos en Tiktok que puedes revisar 
+Mi experiencia incluye desarrollo backend, liderazgo técnico, contratación, gestión de equipos y estrategia de producto.
 
-📫 Let's connect 
-[LinkedIn](https://www.linkedin.com/in/paulina-g-319981121)   
-[TikTok](https://www.tiktok.com/@pau.en.tecnologia) 🌹💖
+## Mi objetivo ✨
 
-“Always learning. Always building.”
+Ayudarte a dejar de acumular cursos sin dirección y comenzar a construir una carrera basada en tus habilidades, tus intereses y las necesidades reales del mercado.
+
+## Conectemos 🤝
+
+📱 **TikTok:** [TikTok](https://www.tiktok.com/@pau.en.tecnologia) 🌹💖
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/paulina-g-319981121) 
+📚 **Guías y ebooks:** próximamente disponibles  
+
+> Aprende con intención. Construye con estrategia.
+🌹💖
+
