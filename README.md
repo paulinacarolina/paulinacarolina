@@ -1,16 +1,15 @@
 Hi there 👋  
-I'm Paulina, a Mexican Backend Software Engineer based in Aguascalientes, Mexico 🇲🇽
+I'm Paulina, a former Backend Software Engineer based in Aguascalientes, Mexico 🇲🇽 Now I'm a Product Lead on tech
 
-🔭 With 5+ years of experience, I specialize in building scalable and event-driven systems using **Java (Spring Boot)** and **.NET**.  
+🔭 With 7+ years of experience in Tech I created "Pau en Tecnologia" this space to help other people thrive in this industry.. 
 
-☁️ Skilled in microservices architecture, Kafka, Docker, CI/CD, SQL & NoSQL, and cloud platforms like **AWS** and **Azure**.
 
-👩🏾‍💻 Currently focusing on strengthening my expertise in Java to embrace a more language-agnostic backend path.
+👩🏾‍💻 Currently focusing on strengthening my expertise Management, AI platforms 
 
-💸 Passionate about fintech — I've worked with financial institutions and high-performance systems since 2021.
+💸 Passionate about fintechs, biomedics, traveling , sales and more and niche techs 
 
-🤝 Open to collaborating on backend projects, code reviews, or mentoring junior devs.
+🤝 Tengo un servicio de ebooks y muchos videos en Tiktok que puedes revisar 
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/paulina-g-319981121) 🌹💖
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/paulina-g-319981121) or tiktok  [TikTok]([https://www.tiktok.com/@pau.en.tecnologia]) 🌹💖
 
-“Always learning. Always building.” 🐱‍👤✨
+“Always learning. Always building.”
